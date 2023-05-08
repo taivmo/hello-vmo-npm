@@ -12,7 +12,7 @@ const { helloVmo } = require('hello-vmo-npm');
 ```
 Then, call the `helloVMO` function to log the text "hello VMO" to the console:
 ```bash
-helloVMO();
+helloVmo();
 // Output: "hello VMO"
 ```
 That's it! You can now use this package to easily log the text "hello VMO" to the console in your Node.js projects.
