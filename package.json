@@ -1,0 +1,23 @@
+{
+    "name": "hello-vmo-npm",
+    "version": "1.0.0",
+    "description": "A simple NPM package that provides a function for console logging the text 'hello VMO'.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/taivmo/hello-vmo-npm.git"
+    },
+    "keywords": [
+      "hello-vmo-npm"
+    ],
+    "author": "Tai",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/taivmo/hello-vmo-npm/issues"
+    },
+    "homepage": "https://github.com/taivmo/hello-vmo-npm#readme"
+  }
+  
